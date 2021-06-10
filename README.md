@@ -1,2 +1,4 @@
 # backgroundGenerator
-Mini web app que cambia el color del fondo utilizando gradientes.
+Practicando la manipulación y el manejo de eventos en el DOM con js, creé esta mini web app que cambia el color del fondo utilizando gradientes.
+
+GitHubPage: https://gaby07dev.github.io/backgroundGenerator
